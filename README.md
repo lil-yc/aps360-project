@@ -1,2 +1,3 @@
-# aps360-project
-APS360 deep learning project: AI-generated music detection
+# AI-Generated Music Detection
+
+This page will be updated as the project progresses.
